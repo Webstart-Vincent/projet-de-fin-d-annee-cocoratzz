@@ -6,6 +6,10 @@
     <title>Bubble Ratzz</title>
     <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap" rel="stylesheet">
     <meta name="description" content="Découvrez Bubble Ratzz - votre destination pour les ingrédients et ustensiles nécessaires pour créer des Bubble Tea personnalisables chez vous.">
+    <a href="https://app.netlify.com/sites/bubbleratzz/deploys">
+  <img src="https://api.netlify.com/api/v1/badges/c08d12cf-2a21-4a12-9d49-d1833d1ebbd8/deploy-status" alt="Netlify Status">
+</a>
+
 </head>
 <body>
 

@@ -422,6 +422,15 @@ Pour toute question concernant la politique de confidentialité, veuillez nous c
         <div class="newsletter-form">
             <input type="email" id="newsletter-email" class="newsletter-input" placeholder="Entrez votre email...">
             <button type="submit" class="newsletter-submit">S'inscrire</button>
+                    <!-- {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                <ul class="flashes">
+                {% for category, message in messages %}
+                    <li class="{{ category }}">{{ message }}</li>
+                {% endfor %}
+                </ul>
+            {% endif %}
+        {% endwith %} -->
         </div>
 
         <?php
